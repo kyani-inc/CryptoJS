@@ -1,0 +1,24 @@
+{
+  "name": "cryptojslib",
+  "version": "3.1.3",
+  "main": "rollups/aes.js",
+  "homepage": "https://github.com/sytelus/cryptojs",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sytelus/cryptojs.git"
+  },
+  "ignore": [
+    "*.bat"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "_release": "3.1.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v3.1.3",
+    "commit": "e5da67c3a7c894a51e94331fb864eedf884b08a8"
+  },
+  "_source": "https://github.com/kyani-inc/CryptoJS.git",
+  "_target": "~3.1.3",
+  "_originalSource": "cryptojslib-kyani-inc"
+}
